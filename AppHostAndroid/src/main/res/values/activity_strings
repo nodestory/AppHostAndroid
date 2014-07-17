@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_types">
+        <item>Resting</item>
+        <item>Dining</item>
+        <item>Sports</item>
+        <item>Recreation</item>
+        <item>Working</item>
+        <item>Others</item>
+    </string-array>
+</resources>
